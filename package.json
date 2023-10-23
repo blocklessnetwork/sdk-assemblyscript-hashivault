@@ -1,5 +1,5 @@
 {
-  "name": "hashi-vault",
+  "name": "@blockless/sdk-assemblyscript-hashi-vault",
   "version": "1.0.0",
   "description": "retrieve Hashicorp Vault Secrets with your Blockless Functions.",
   "main": "index.js",
